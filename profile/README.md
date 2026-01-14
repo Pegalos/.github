@@ -2,5 +2,5 @@
 
 we are pegalos AND MAKE STUFF
 
-[pegalos](https://pegalos.vercel.app)
-[twitter](https://pegalos.vercel.app)
+[pegalos](https://pegalos.org)
+[twitter](https://x.com/usepegalos)
